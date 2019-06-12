@@ -15,3 +15,11 @@ To do this, we used 3rd Party program for USB-to-Serial (com.hoho.android:usb-se
 
 
 If you do not want or do not have edge-touch sensor with USB OTG connected, please be modify the code related to USB-to-Serial.
+
+-------
+
+This program work with TouchSender (https://github.com/suggestbot-wearable-text-entry-system/TouchSender). 
+
+TouchSender is a program for a smartwatch, which is used to input device for a smart glssses.
+
+You can also check the implementation details on my publication, Typing on a Smartwatch for Smart Glasses (ISS17) doi.org/10.1145/3132272.3134136 
