@@ -6,8 +6,8 @@ Specifically, it had been coded for Moverio BT300 device, but it can be run with
 
 However, if you use any other device, please re-set a keyboard layout dimension to consider a dimension of display on your device.
 
+We also recommanded to use this program with SDK ver. of higher than 19, and its target SDK version is 26.
 
-We recommanded to use this program with higher than Android 19 ver, and its target SDK version is 26.
 
 This program also used OTG to connect a edge-touch sensor for a smartwatch. 
 
